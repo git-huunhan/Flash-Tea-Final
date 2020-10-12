@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Tab2Page} from './../tab2/tab2.page';
 
 @Component({
   selector: 'app-tab1',
@@ -45,7 +46,6 @@ export class Tab1Page {
       sale: '30 000'
     },
   ]
-
+  
   constructor() {}
-
 }
