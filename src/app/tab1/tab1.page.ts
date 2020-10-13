@@ -9,7 +9,7 @@ export class Tab1Page {
 
   public items: any[] = [
     {
-      img: '../../assets/items/milktea.png',
+      img: '../../assets/items/BlueSky.png',
       name: 'Trà sữa trân châu đường đen',
       real: '45 000',
       sale: '30 000',
