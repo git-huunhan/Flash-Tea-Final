@@ -45,7 +45,4 @@ export class Tab1Page {
       sale: '30 000'
     },
   ]
-
-  constructor() {}
-
 }

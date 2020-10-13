@@ -1,5 +1,7 @@
 {
   "name": "Ftea",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
