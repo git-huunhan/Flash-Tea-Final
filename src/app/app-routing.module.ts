@@ -52,6 +52,10 @@ const routes: Routes = [
   {
     path: 'user',
     loadChildren: () => import('./user/user.module').then( m => m.UserPageModule)
+  },
+  {
+    path: 'verify-email',
+    loadChildren: () => import('./verify-email/verify-email.module').then( m => m.VerifyEmailPageModule)
   }
 
 ];
