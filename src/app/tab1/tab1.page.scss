@@ -17,7 +17,7 @@
         margin: 0 2% 0 2%;
         width: 50%;
         height: 30px;
-        border: 1px solid #66696E;
+        border: 1px solid #a4a4a5;
         border-radius: 8px;
         justify-content: center;
         align-items: center;
@@ -55,7 +55,7 @@
 .location{
     margin-top: 10px;
     width: 100%;
-    height: 55px;
+    height: 50px;
     filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.25));
     background: #FFFFFF;
     display: flex;
@@ -103,7 +103,7 @@
         font-weight: bold;
         font-size: 20px;
         line-height: 25px;
-        color: #66696E;
+        color: #03A87C;
     }
 
     ion-col{
@@ -187,5 +187,5 @@
 }
 
 .list-items{
-    margin-top: 38%;
+    margin-top: 37%;
 }
