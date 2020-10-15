@@ -1,0 +1,7 @@
+{
+  "name": "Ftea",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
